@@ -16,11 +16,10 @@ springboot-datasource-mybatis-plus 服务是基于mybatise-pluse进行适配
     <tr>
         <td><img width=300px height=300px alt="微信公众号" src="https://github.com/nanpugood/springboot-datasource-master/blob/main/doc/proImg/weixin.jpg"/></td>
         <td><img width=300px height=300px alt="今日头条号" src="https://github.com/nanpugood/springboot-datasource-master/blob/main/doc/proImg/toutiaohao.png"/></td>
-    </tr>
-	
-	 <tr>
+    </tr>	
+    <tr>
         <td><center><strong>QQ群</strong></center></td>
-	</tr>
+    </tr>
     <tr>
         <td><img width=300px height=300px alt="QQ群" src="https://github.com/nanpugood/springboot-datasource-master/blob/main/doc/proImg/qq.png"/></td>
     </tr>
