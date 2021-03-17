@@ -8,9 +8,23 @@ springboot-datasource-mybatis-plus 服务是基于mybatise-pluse进行适配
 
 欢迎关注推荐
 -----------------------------------  
-<img width=200px height=300px alt="微信公众号:java架构师进阶之路<" src="https://github.com/nanpugood/springboot-datasource-master/blob/main/doc/proImg/weixin.jpg"/>
-<img width=200px height=300px alt="今日头条号:java架构师进阶之路" src="https://github.com/nanpugood/springboot-datasource-master/blob/main/doc/proImg/toutiaohao.png"/>
-<img width=300px height=300px alt="QQ群:745455858" src="https://github.com/nanpugood/springboot-datasource-master/blob/main/doc/proImg/qq.png"/>
+<table>
+    <tr>
+        <td><center><strong>微信公众号</strong></center></td>
+        <td><center><strong>今日头条号</strong></center></td>
+	</tr>
+    <tr>
+        <td><img width=300px height=300px alt="微信公众号" src="https://github.com/nanpugood/springboot-datasource-master/blob/main/doc/proImg/weixin.jpg"/></td>
+        <td><img width=300px height=300px alt="今日头条号" src="https://github.com/nanpugood/springboot-datasource-master/blob/main/doc/proImg/toutiaohao.png"/></td>
+    </tr>
+	
+	 <tr>
+        <td><center><strong>QQ群</strong></center></td>
+	</tr>
+    <tr>
+        <td><img width=300px height=300px alt="QQ群" src="https://github.com/nanpugood/springboot-datasource-master/blob/main/doc/proImg/qq.png"/></td>
+    </tr>
+</table>
 
 问题反馈
 -----------------------------------
