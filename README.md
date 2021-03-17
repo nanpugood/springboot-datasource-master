@@ -1,13 +1,20 @@
 # springboot-datasource-starter
-SpringbootÊµÏÖ¶àÊı¾İÔ´¶ÁĞ´·ÖÀë,ÊÊÅämybatisºÍmybatis-pluse¡£
+Springbootå®ç°å¤šæ•°æ®æºè¯»å†™åˆ†ç¦»,é€‚é…mybatiså’Œmybatis-pluseã€‚
 
-¶ÔÏÖÓĞÏîÄ¿¿ÉÒÔ½øĞĞÎŞÇÖÈëÊ½¸ÄÔì£¬Ê¹ÓÃ×¢½â¼´¿ÉÍê³É³ÌĞòÉı¼¶¡£<br/>
-ÎªÂú×ã²»Í¬ĞèÇó£¬ÏÖÌá¹©mybatisºÍmybatise-plusµÄ2ÖÖ½â¾ö·½°¸¡£<br/> 
-springboot-datasource-mybatis ·şÎñÊÇ»ùÓÚmybatise½øĞĞÊÊÅä¡£<br/> 
-springboot-datasource-mybatis-plus ·şÎñÊÇ»ùÓÚmybatise-pluse½øĞĞÊÊÅä 
+å¯¹ç°æœ‰é¡¹ç›®å¯ä»¥è¿›è¡Œæ— ä¾µå…¥å¼æ”¹é€ ï¼Œä½¿ç”¨æ³¨è§£å³å¯å®Œæˆç¨‹åºå‡çº§ã€‚<br/>
+ä¸ºæ»¡è¶³ä¸åŒéœ€æ±‚ï¼Œç°æä¾›mybatiså’Œmybatise-plusçš„2ç§è§£å†³æ–¹æ¡ˆã€‚<br/> 
+springboot-datasource-mybatis æœåŠ¡æ˜¯åŸºäºmybatiseè¿›è¡Œé€‚é…ã€‚<br/> 
+springboot-datasource-mybatis-plus æœåŠ¡æ˜¯åŸºäºmybatise-pluseè¿›è¡Œé€‚é… 
 
-»¶Ó­¹Ø×¢ÍÆ¼ö
+æ¬¢è¿å…³æ³¨æ¨è
 -----------------------------------  
-Î¢ĞÅ¹«ÖÚºÅ£ºjava¼Ü¹¹Ê¦½ø½×Ö®Â·<br/>  
-½ñÈÕÍ·ÌõºÅ£ºjava¼Ü¹¹Ê¦½ø½×Ö®Â·<br/>  
-QQÈº£º745455858<br/>  
+å¾®ä¿¡å…¬ä¼—å·ï¼šjavaæ¶æ„å¸ˆè¿›é˜¶ä¹‹è·¯<br/>  
+<img width=300px height=300px alt="å¾®ä¿¡å…¬ä¼—å·:javaæ¶æ„å¸ˆè¿›é˜¶ä¹‹è·¯<" src="https://github.com/nanpugood/springboot-datasource-master/blob/main/doc/proImg/weixin.jpg"/>
+ä»Šæ—¥å¤´æ¡å·ï¼šjavaæ¶æ„å¸ˆè¿›é˜¶ä¹‹è·¯<br/>  
+<img width=300px height=300px alt="ä»Šæ—¥å¤´æ¡å·:javaæ¶æ„å¸ˆè¿›é˜¶ä¹‹è·¯" src="https://github.com/nanpugood/springboot-datasource-master/blob/main/doc/proImg/toutiaohao.png"/>
+QQç¾¤ï¼š745455858<br/>  
+<img width=300px height=300px alt="QQç¾¤:745455858" src="https://github.com/nanpugood/springboot-datasource-master/blob/main/doc/proImg/qq.png"/>
+
+é—®é¢˜åé¦ˆ
+-----------------------------------
+weichangliang365@163.com
