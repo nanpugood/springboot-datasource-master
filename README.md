@@ -8,11 +8,11 @@ springboot-datasource-mybatis-plus 服务是基于mybatise-pluse进行适配
 
 欢迎关注推荐
 -----------------------------------  
-微信公众号：java架构师进阶之路<br/>  
-<img width=300px height=300px alt="微信公众号:java架构师进阶之路<" src="https://github.com/nanpugood/springboot-datasource-master/blob/main/doc/proImg/weixin.jpg"/>
+微信公众号：java架构师进阶之路  
+<img width=200px height=300px alt="微信公众号:java架构师进阶之路<" src="https://github.com/nanpugood/springboot-datasource-master/blob/main/doc/proImg/weixin.jpg"/>
 今日头条号：java架构师进阶之路<br/>  
-<img width=300px height=300px alt="今日头条号:java架构师进阶之路" src="https://github.com/nanpugood/springboot-datasource-master/blob/main/doc/proImg/toutiaohao.png"/>
-QQ群：745455858<br/>  
+<img width=200px height=300px alt="今日头条号:java架构师进阶之路" src="https://github.com/nanpugood/springboot-datasource-master/blob/main/doc/proImg/toutiaohao.png"/>
+QQ群<br/>  
 <img width=300px height=300px alt="QQ群:745455858" src="https://github.com/nanpugood/springboot-datasource-master/blob/main/doc/proImg/qq.png"/>
 
 问题反馈
