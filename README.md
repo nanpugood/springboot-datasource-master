@@ -6,6 +6,10 @@ Springboot实现多数据源读写分离,适配mybatis和mybatis-pluse。
 springboot-datasource-mybatis 服务是基于mybatise进行适配。<br/> 
 springboot-datasource-mybatis-plus 服务是基于mybatise-pluse进行适配 
 
+问题反馈
+-----------------------------------
+weichangliang365@163.com
+
 欢迎关注推荐
 -----------------------------------  
 <table>
@@ -25,6 +29,3 @@ springboot-datasource-mybatis-plus 服务是基于mybatise-pluse进行适配
     </tr>
 </table>
 
-问题反馈
------------------------------------
-weichangliang365@163.com
