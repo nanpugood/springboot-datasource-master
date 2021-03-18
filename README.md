@@ -1,5 +1,5 @@
 # springboot-datasource-starter
-Springboot实现多数据源读写分离,适配mybatis和mybatis-pluse。
+Springboot实现多数据源读写分离,适配mybatis和mybatis-plus。
 
 对现有项目可以进行无侵入式改造，使用注解即可完成程序升级。<br/>
 为满足不同需求，现提供mybatis和mybatise-plus的2种解决方案。<br/> 
