@@ -10,7 +10,7 @@ springboot-datasource-mybatis-plus 服务是基于mybatise-pluse进行适配
 -----------------------------------
 weichangliang365@163.com
 
-欢迎关注推荐
+欢迎关注
 -----------------------------------  
 <table>
     <tr>
