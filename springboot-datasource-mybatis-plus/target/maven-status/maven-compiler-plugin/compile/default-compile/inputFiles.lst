@@ -1,0 +1,13 @@
+D:\githubworkspace\springboot-datasource-master\springboot-datasource-master\springboot-datasource-mybatis-plus\src\main\java\com\dh\ms\controller\UserInfoController.java
+D:\githubworkspace\springboot-datasource-master\springboot-datasource-master\springboot-datasource-mybatis-plus\src\main\java\com\dh\ms\annotation\Slave.java
+D:\githubworkspace\springboot-datasource-master\springboot-datasource-master\springboot-datasource-mybatis-plus\src\main\java\com\dh\ms\common\DSContextHolder.java
+D:\githubworkspace\springboot-datasource-master\springboot-datasource-master\springboot-datasource-mybatis-plus\src\main\java\com\dh\ms\mapper\UserInfoMapper.java
+D:\githubworkspace\springboot-datasource-master\springboot-datasource-master\springboot-datasource-mybatis-plus\src\main\java\com\dh\ms\config\DataSourceConfig.java
+D:\githubworkspace\springboot-datasource-master\springboot-datasource-master\springboot-datasource-mybatis-plus\src\main\java\com\dh\ms\MsApplication.java
+D:\githubworkspace\springboot-datasource-master\springboot-datasource-master\springboot-datasource-mybatis-plus\src\main\java\com\dh\ms\common\DynamicDataSource.java
+D:\githubworkspace\springboot-datasource-master\springboot-datasource-master\springboot-datasource-mybatis-plus\src\main\java\com\dh\ms\service\impl\UserInfoServiceImpl.java
+D:\githubworkspace\springboot-datasource-master\springboot-datasource-master\springboot-datasource-mybatis-plus\src\main\java\com\dh\ms\annotation\Master.java
+D:\githubworkspace\springboot-datasource-master\springboot-datasource-master\springboot-datasource-mybatis-plus\src\main\java\com\dh\ms\aspect\DataSourceAspect.java
+D:\githubworkspace\springboot-datasource-master\springboot-datasource-master\springboot-datasource-mybatis-plus\src\main\java\com\dh\ms\model\UserInfo.java
+D:\githubworkspace\springboot-datasource-master\springboot-datasource-master\springboot-datasource-mybatis-plus\src\main\java\com\dh\ms\common\DSNames.java
+D:\githubworkspace\springboot-datasource-master\springboot-datasource-master\springboot-datasource-mybatis-plus\src\main\java\com\dh\ms\service\UserInfoServcie.java

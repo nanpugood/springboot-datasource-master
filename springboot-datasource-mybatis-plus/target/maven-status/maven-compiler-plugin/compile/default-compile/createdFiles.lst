@@ -1,0 +1,13 @@
+com\dh\ms\service\impl\UserInfoServiceImpl.class
+com\dh\ms\model\UserInfo.class
+com\dh\ms\MsApplication.class
+com\dh\ms\controller\UserInfoController.class
+com\dh\ms\service\UserInfoServcie.class
+com\dh\ms\common\DSContextHolder.class
+com\dh\ms\common\DynamicDataSource.class
+com\dh\ms\config\DataSourceConfig.class
+com\dh\ms\mapper\UserInfoMapper.class
+com\dh\ms\common\DSNames.class
+com\dh\ms\aspect\DataSourceAspect.class
+com\dh\ms\annotation\Slave.class
+com\dh\ms\annotation\Master.class

@@ -1,0 +1,11 @@
+com\central\mapper\TestMapper.class
+com\central\DxflApplication.class
+com\central\config\ReadOnly.class
+com\central\config\MyAbstractRoutingDataSource.class
+com\central\controller\TestController.class
+com\central\util\NumberUtil.class
+com\central\config\DbContextHolder.class
+com\central\service\TestService.class
+com\central\config\WriteOrReadDatabaseConfig.class
+com\central\entity\Test.class
+com\central\config\ReadOnlyInterceptor.class
