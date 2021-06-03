@@ -8,7 +8,8 @@ springboot-datasource-mybatis-plus 服务是基于mybatise-pluse进行适配
 
 问题反馈
 -----------------------------------
-weichangliang365@163.com
+邮箱：weichangliang365@163.com<br/>
+微信：1106915848
 
 欢迎关注
 -----------------------------------  
@@ -23,7 +24,7 @@ weichangliang365@163.com
     </tr>	
     <tr>
 	<td><center><strong>今日头条号</strong></center></td>
-        <td><center><strong>QQ群</strong></center></td>
+        <td><center><strong>互动QQ群</strong></center></td>
     </tr>
     <tr>
 	<td><img width=300px height=300px alt="今日头条号" src="https://github.com/nanpugood/springboot-datasource-master/blob/main/doc/proImg/toutiaohao.png"/></td>
