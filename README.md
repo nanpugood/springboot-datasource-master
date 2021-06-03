@@ -14,17 +14,19 @@ weichangliang365@163.com
 -----------------------------------  
 <table>
     <tr>
+        <td><center><strong>本人微信号</strong></center></td>
         <td><center><strong>微信公众号</strong></center></td>
-        <td><center><strong>今日头条号</strong></center></td>
-	</tr>
+    </tr>
     <tr>
+	<td><img width=300px height=300px alt="本人微信号" src="https://github.com/nanpugood/springboot-datasource-master/blob/main/doc/proImg/myself-weixin.png"/></td>
         <td><img width=300px height=300px alt="微信公众号" src="https://github.com/nanpugood/springboot-datasource-master/blob/main/doc/proImg/weixin.jpg"/></td>
-        <td><img width=300px height=300px alt="今日头条号" src="https://github.com/nanpugood/springboot-datasource-master/blob/main/doc/proImg/toutiaohao.png"/></td>
     </tr>	
     <tr>
+	<td><center><strong>今日头条号</strong></center></td>
         <td><center><strong>QQ群</strong></center></td>
     </tr>
     <tr>
+	<td><img width=300px height=300px alt="今日头条号" src="https://github.com/nanpugood/springboot-datasource-master/blob/main/doc/proImg/toutiaohao.png"/></td>
         <td><img width=300px height=300px alt="QQ群" src="https://github.com/nanpugood/springboot-datasource-master/blob/main/doc/proImg/qq.png"/></td>
     </tr>
 </table>
